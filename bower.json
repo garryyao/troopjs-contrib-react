@@ -1,0 +1,26 @@
+{
+  "name": "troopjs-contrib-react",
+  "version": "0.0.0",
+  "authors": [
+    "Garry Yao <yaojun85@gmail.com>"
+  ],
+  "description": "TroopJS married to ReactJS",
+  "main": "gadget/react.js",
+  "keywords": [
+    "TroopJS",
+    "ReactJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "garryyao/react#troopjs",
+    "troopjs-core": ""
+  },
+  "homepage": "https://github.com/garryyao/troopjs-contrib-react"
+}
