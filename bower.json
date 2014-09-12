@@ -4,6 +4,7 @@
   "authors": [
     "Garry Yao <yaojun85@gmail.com>"
   ],
+  "homepage": "https://github.com/garryyao/troopjs-contrib-react",
   "description": "TroopJS married to ReactJS",
   "main": "gadget/react.js",
   "keywords": [
@@ -19,8 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "react": "garryyao/react#troopjs",
+    "react": "garryyao/react-bower#master",
     "troopjs-core": ""
-  },
-  "homepage": "https://github.com/garryyao/troopjs-contrib-react"
+  }
 }
