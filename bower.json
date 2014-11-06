@@ -22,5 +22,9 @@
   "dependencies": {
     "react": "garryyao/react-bower#master",
     "troopjs-core": ""
+  },
+  "devDependencies": {
+    "requirejs": "",
+    "troopjs-dom": ""
   }
 }
