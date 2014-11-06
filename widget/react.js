@@ -8,7 +8,7 @@ define([
     this.boot = function () {
       return when.promise(function (resolve) {
         require([module], function (Component) {
-          React.renderComponent(Component(props), $element, resolve);
+          React.renderComponent(Component(props), $element.get(0), resolve);
         });
       });
     }
